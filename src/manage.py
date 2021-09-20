@@ -3,6 +3,7 @@
 import os
 import sys
 
+#from moiz fixing bug
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'clownchat.settings')
